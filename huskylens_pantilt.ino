@@ -1,4 +1,4 @@
-#Make sure you have the libiraries or ur gonna be sad and shit won't work.
+#Make sure you have the libraries or ur gonna be sad and shit won't work.
 
 <Servo.h>
 <HuskyLens.h>
