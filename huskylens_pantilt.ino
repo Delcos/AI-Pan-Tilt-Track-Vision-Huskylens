@@ -1,5 +1,7 @@
-#include <Servo.h>
-#include <HuskyLens.h>
+#Make sure you have the libiraries or ur gonna be sad and shit won't work.
+
+<Servo.h>
+<HuskyLens.h>
 
 Servo panServo;
 Servo tiltServo;
